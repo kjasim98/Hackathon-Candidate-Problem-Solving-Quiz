@@ -36,5 +36,4 @@ def Find_missing_range(frames):
     }
 
 
-# Run the tests
-run_tests()
+
